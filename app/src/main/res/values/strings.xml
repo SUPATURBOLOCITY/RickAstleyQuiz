@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Rick Astley Quiz</string>
+    //Intro Message on app
+    <string name="intro">Rick Astley is an English singer-songwriter popular in the 80\'s. Let\'s see how well you know him. Answer the following questions:</string>
+
+    //List of quiz questions
+    <string name="question1">1. Rick Astley\'s <i>never gonna…</i></string>
+    <string name="question2">2. Which one of these is <u>not</u> a Rick Astley song <i>(Check all that apply)</i> </string>
+    <string name="question3">3. What is Rick Astley\'s <b>middle name</b>?</string>
+    <string name="question4">4. <b>True or False:</b> Rick Astley\'s number one hit \"Never Gonna Give You Up\" was the No. 1 hit song in 25 countries.</string>
+    <string name="question5">5. What do you call the <b>prank</b> or <b>internet meme</b> involving an unexpected appearance of Rick Astley\'s video \"Never Gonna Give You Up\"?</string>
+
+    //Extra Score Messages on Toast
+    <string name="extraMessage1">Great Job! You really know Rick Astley!</string>
+
+    //Hint text on GET SCORE button
+    <string name="getScoreHint">Tap once to get score</string>
+
+</resources>
